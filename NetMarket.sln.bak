@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMarket.Api", "src\NetMarket.Api\NetMarket.Api.csproj", "{711A8CDC-D8C3-4343-9C03-371DA6D76A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMarket.Business", "src\NetMarket.Business\NetMarket.Business.csproj", "{0E7ACDBE-B843-4DB1-9D32-3B897BBBCD2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMarket.Business", "NetMarket.Business\NetMarket.Business.csproj", "{0E7ACDBE-B843-4DB1-9D32-3B897BBBCD2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMarket.Core", "src\NetMarket.Core\NetMarket.Core.csproj", "{D11D3659-1AC0-4711-8C95-36B9E5C29B44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMarket.Core", "NetMarket.Core\NetMarket.Core.csproj", "{D11D3659-1AC0-4711-8C95-36B9E5C29B44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
