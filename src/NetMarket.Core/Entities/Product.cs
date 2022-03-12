@@ -16,8 +16,7 @@ namespace NetMarket.Core.Entities
         public Brand Brand { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-        [Column(TypeName ="decimal(18,4)")]
-        public Decimal price { get; set; }
+        public Decimal Price { get; set; }
         public string Image { get; set; }
     }
 }
